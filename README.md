@@ -16,7 +16,7 @@
 
 | Name                              | Explanation                               | Duration                | Role           | Tool & Stack                 |
 |-----------------------------------|-----------------------------------|---------------------|---------------------|-------------------------------|
-| IRECIPE | 파일.일정 관리 서비스 개발          | I 맞춤형 레시피, 아이레시피      | 2023.12~2024.02 |  FrontEnd                         |![Static Badge](https://img.shields.io/badge/Kotline-%2361DAFB?logo=react&logoColor=white)|
+| IRECIPE |AI 맞춤형 레시피, 아이레시피  | 2023.12~2024.02 |  FrontEnd                         |![Static Badge](https://img.shields.io/badge/Kotline-%2361DAFB?logo=react&logoColor=white)|
 
 
     
