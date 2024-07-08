@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dayun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
-<br>
 
 ## 📊 Git Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldayun&show_icons=true&theme=radical)
