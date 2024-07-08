@@ -13,7 +13,7 @@
 |-----------------------------------|-----------------------------------|---------------------|---------------------|-------------------------------|
 |Whole-ro|1인 가구를 위한 웹 서비스 Whole-ro|2023.09~2023.12|FrontEnd,BackEnd|![Static Badge](https://img.shields.io/badge/MyBatis-green)![Static Badge](https://img.shields.io/badge/JSP-blue)![Static Badge](https://img.shields.io/badge/java-yellow)![Static Badge](https://img.shields.io/badge/SQLDeveloper-%20pink)|
 | IRECIPE |AI 맞춤형 레시피, 아이레시피  | 2023.12~2024.02 |  FrontEnd                         |![Static Badge](https://img.shields.io/badge/Kotline-%2361DAFB?logo=react&logoColor=white)|
-|Movie.Zip|1인 가구를 위한 웹 서비스 Whole-ro|2023.09~2023.12|FrontEnd,BackEnd|![Static Badge](https://img.shields.io/badge/MyBatis-green)![Static Badge](https://img.shields.io/badge/React)![Static Badge](https://img.shields.io/badge/java-yellow)![Static Badge](https://img.shields.io/badge/Oracle-%20pink)|
+|Movie.Zip|1인 가구를 위한 웹 서비스 Whole-ro|2023.09~2023.12|FrontEnd,BackEnd|![Static Badge](https://img.shields.io/badge/MyBatis-green)![Static Badge](https://img.shields.io/badge/react)![Static Badge](https://img.shields.io/badge/java-yellow)![Static Badge](https://img.shields.io/badge/Oracle-%20pink)|
     
 ## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:row;">
