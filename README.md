@@ -6,7 +6,7 @@
 ## 📊 Git Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldayun&show_icons=true&theme=radical)
 
-## 💻 Project
+## 💻 Project 💻
 
 | Name | Explanation | Duration | Role | Tool & Stack |
 |-----------------------------------|-----------------------------------|---------------------|---------------------|-------------------------------|
